@@ -115,7 +115,6 @@ The following publicly available dictionaries were used for reference verificati
 
 ## Notes for Reviewers
 
-- All author-identifying information has been removed from this repository for anonymous review.
 - The dataset spans 9 models and 27 test instances across two rounds of testing (January–February 2026).
 - The methodology is designed to be generalizable to other low-resource or endangered language contexts, not specific to Anishinaabemowin alone.
-- Qualcoder analysis files are not included in this repository
+- It is noted by the authors that 3 phrases does not produce statistically significant data, this is testing of method alone. For researchers and community using this method it is advised that more phrases be selected to use on models to generate a broader collection of data. However, with only 3 phrases it was possible to see which models showed promise for further testing, while others were unlikely to produce usable results.
