@@ -2,7 +2,7 @@
 
 **Version**: 1.0  
 **Date Created**: January 24, 2026  
-**Context**: This procedure was developed following initial benchmark testing of Claude and Qwen 2.5 models [[2026-01-24_Ojibwe_AI_Benchmark_PRT]]. It provides a standardized methodology for collecting AI model outputs for later analysis.
+**Context**: This procedure was developed following initial benchmark testing of Claude and Qwen 2.5 models 2026-01-24. It provides a standardized methodology for collecting AI model outputs for later analysis.
 
 ---
 
@@ -96,7 +96,7 @@ Create two files for organizing your data collection:
 
 See "Data Collection Format" section below for detailed structure.
 
-Store all documents in MS TEAMS folder [GROQ_Testing_Ojibwe_Translation](https://yuoffice.sharepoint.com/:f:/r/sites/YORK-UserExperienceUXResearchDesign/Shared%20Documents/General/21.16%20Language%20Bot/GROQ_Testing_Ojibwe_Translation?csf=1&web=1&e=w9zMQ4)
+Store all documents in shared and protected folder according to data sharing agreements and available resources at institution and / or community.
 
 ---
 
@@ -225,14 +225,14 @@ END OF OUTPUT
 
 ## This Structured Format Allows the Coder To:
 
-- Import the file into QualCoder easily
+- Import the file into Qualcoder or other evalation SPK easily
 - Code each model output as a separate segment
 - Track which model and test phrase each output corresponds to
 - Maintain consistent metadata across all data points
 
 ## Metadata Spreadsheet
 
-Your Testing_Metadata.xlsx should something look like this:
+Your Testing_Metadata.xlsx should look something like this:
 
 | Model Name   | Model Version | Test Number | Test Phrase                     | Timestamp           | Notes                    |
 | ------------ | ------------- | ----------- | ------------------------------- | ------------------- | ------------------------ |
@@ -307,7 +307,7 @@ Save your files with these names:
 
 Upload all files to the shared folder. These files will be:
 
-1. Imported into QualCoder for qualitative analysis
+1. Imported into Qualcoder for qualitative analysis
 2. Coded and analyzed for patterns
 3. Used in research documentation
 
@@ -382,9 +382,7 @@ Upload all files to the shared folder. These files will be:
 
 # Research Context (For Reference)
 
-This data collection is part of research on **community technological empowerment** and **Indigenous educational sovereignty**. The goal is to document limitations of current AI systems for Indigenous languages and build evidence for community-controlled language technology development.
-
-Your careful, systematic data collection directly supports this research by providing comparable, unbiased outputs from multiple AI models that can then be analyzed for patterns and limitations.
+This data collection is part of research on **community technological empowerment** and **Indigenous educational sovereignty**. The long term goal is to document abilities and limitations of current AI systems for Indigenous languages and build evidence to support community-controlled language technology development.
 
 ---
 
