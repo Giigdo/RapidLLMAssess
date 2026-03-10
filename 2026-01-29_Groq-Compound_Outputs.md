@@ -1,9 +1,3 @@
----
-title: How the Sentence is Built
-date created: Sunday, February 15th 2026, 12:38:00 pm
-date modified: Monday, March 9th 2026, 2:54:38 pm
----
-
 ===========================================
 MODEL: Groq Compound
 VERSION: N/A
@@ -51,6 +45,7 @@ Both forms are grammatical; the choice between *sidot* and *bizind* is a matter 
 
 ===========================================
 
+
 ===========================================
 MODEL: Groq Compound
 VERSION: N/A
@@ -88,6 +83,7 @@ Nindayekoz, niwii‑nibaa.
    * *‑wii‑* is the future‑intentional prefix meaning “will, going to”. It is placed **after** the personal prefix and **before** the verb stem.
 
 4. **No copula** – English needs the verb *to be* (“I am …”), but Ojibwe normally expresses a state directly with the appropriate verb. Hence *nindayekoz* literally means “I‑tired‑am” rather than “I am tired”.
+
 5. **Punctuation** – A comma can be used in writing to separate the two independent clauses, just as in English, but it is not required by Ojibwe grammar.
 
 ---
