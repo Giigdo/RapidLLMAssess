@@ -239,7 +239,7 @@ Your Testing_Metadata.xlsx should look something like this:
 | Llama-3-70B  | v1.2          | 1           | I am listening carefully to you | 2026-01-27 10:15 AM | No issues                |
 | Llama-3-70B  | v1.2          | 2           | I am tired, I am going to sleep | 2026-01-27 10:18 AM | Response took 25 seconds |
 | Llama-3-70B  | v1.2          | 3           | We are ending the meeting       | 2026-01-27 10:20 AM | No issues                |
-| Mixtral-8x7B | v0.1          | 1           | I am listening carefully to you | 2026-01-27 10:25 AM | No issues                |
+| Mistral-8x7B | v0.1          | 1           | I am listening carefully to you | 2026-01-27 10:25 AM | No issues                |
 
 ## What to Include in Notes Column
 
