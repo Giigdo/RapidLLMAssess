@@ -1,6 +1,6 @@
 # Anishinaabemowin (Ojibwe) AI Translation Benchmark Dataset
 
-This repository contains data and documentation from a benchmark study evaluating the capacity of large language models (LLMs) to translate English phrases into Anishinaabemowin (Ojibwe language). The work is submitted for anonymous peer review and supports a methodology paper focused on identifying open-source LLMs suitable for fine-tuning in support of Indigenous language revitalization.
+This repository contains data and documentation from a benchmark study evaluating the capacity of large language models (LLMs) to translate English phrases into Anishinaabemowin (Ojibwe language). The work supports a methodology paper focused on identifying open-source LLMs suitable for fine-tuning in support of Indigenous language revitalization.
 
 ---
 
@@ -8,7 +8,7 @@ This repository contains data and documentation from a benchmark study evaluatin
 
 This study evaluates nine AI language models across two rounds of systematic testing using standardized English-to-Anishinaabemowin translation prompts. The goal is not to identify a production-ready translation system, but to establish a baseline benchmark and develop a replicable methodology for assessing LLM suitability for fine-tuning in low-resource, endangered language contexts.
 
-The evaluation framework is adapted from the **Multidimensional Quality Metrics (MQM)** framework, modified to prioritize cultural preservation and linguistic fidelity over commercial translation standards.  Analysis is conducted using **Qualcoder** qualitative analysis software.
+The evaluation framework is adapted from the **Multidimensional Quality Metrics (MQM)** framework, modified to prioritize cultural preservation and linguistic fidelity over commercial translation standards.  Analysis is conducted using **QualCoder** qualitative analysis software.
 
 ### Three Standardized Test Phrases
 
